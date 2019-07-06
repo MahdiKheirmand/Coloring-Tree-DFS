@@ -8,12 +8,12 @@ Coloring a given tree(connect acyclic Graph) with following conditions:
 <br><br><br>
 
 <h3>Example:</h3>
-input:
-<br>5 (amount of vectors)
-<br>1 2   1 3   2 4   2 5 (edges)
-<br><br>output:
-<br>4 (minimum color neede)
-<br>1 = 1 (number of each vector and its color)
+<big><big><big>input:</big></big></big>
+<br>5 <b>(amount of vectors)</b>
+<br>1 2   1 3   2 4   2 5 <b>(edges)</b>
+<br><br><big><big><big>output:</big></big></big>
+<br>4 <b>(minimum color neede)</b>
+<br>1 = 1 <b>(number of each vector and its color)</b>
 <br>2 = 2
 <br>3 = 3
 <br>4 = 3
